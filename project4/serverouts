@@ -1,0 +1,37 @@
+--- from CLI ---
+Array
+(
+    [HOME] => /Users/tater
+    [PWD] => /Users/tater/public_html/book/guestbook2k
+    [PHP_SELF] => index.php
+    [SCRIPT_NAME] => index.php
+    [SCRIPT_FILENAME] => index.php
+    [PATH_TRANSLATED] => index.php
+    [DOCUMENT_ROOT] => 
+    [argv] => Array
+        (
+            [0] => index.php
+        )
+
+    [argc] => 1
+)
+<p align=right>
+<a href="/book/">examples home</a>
+&nbsp;|&nbsp;
+<a href="/book/docreflect/source/index.php">see source for index.php</a>
+------ from Apache ----------
+(
+    [DOCUMENT_ROOT] => /usr/local/book/apache/htdocs
+    [REDIRECT_STATUS] => 200
+    [REDIRECT_URL] => /~tater/book/guestbook2k/
+    [SCRIPT_FILENAME] => /Users/tater/public_html/book/guestbook2k/index.php
+    [REQUEST_URI] => /~tater/book/guestbook2k/
+    [SCRIPT_NAME] => /~tater/book/guestbook2k/index.php
+    [PATH_TRANSLATED] => /Users/tater/public_html/book/guestbook2k/index.php
+    [PHP_SELF] => /~tater/book/guestbook2k/index.php
+)
+<p align="right">
+<a href="/Users/tater/public_html/book/">examples home</a>
+&nbsp;|&nbsp;
+<a href="/Users/tater/public_html/book/docreflect/source/book/guestbook2k/index.php">see source for book/guestbook2k/index.php</a>
+</p>

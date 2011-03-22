@@ -1,0 +1,82 @@
+P
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+B
+{
+    FONT-WEIGHT: bold
+}
+TD
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY
+{
+    MARGIN: 0px;
+    COLOR: black;
+    BACKGROUND-COLOR: #ffffff
+}
+INPUT
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+OPTION
+{
+    FONT-SIZE: 8pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TEXTAREA
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SELECT
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+B.white
+{
+    FONT-SIZE: 9pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+B.error
+{
+    FONT-SIZE: 9pt;
+    COLOR: #ff0000;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+B.header
+{
+    FONT-SIZE: 12pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+A
+{
+    FONT-SIZE: 9pt;
+    COLOR: #0000ff;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+A:hover
+{
+    FONT-SIZE: 9pt;
+    COLOR: #ff0000;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+H3.white
+{
+    FONT-SIZE: 14pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
